@@ -45,6 +45,8 @@ Express (basics): I possess basic knowledge of Express, a fast and minimalist we
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="nestjs" src=" https://img.shields.io/badge/nestjs?logo=nestjs"/>
+<img alt="nextjs" src=" https://img.shields.io/badge/nextjs?logo=nextjs"/>
 
 My Approach and Philosophy:
 I am a detail-oriented developer who believes in writing clean, modular, and maintainable code. I am passionate about staying up to date with the latest industry trends and technologies, and I am always excited to take on new challenges and learn new tools.
